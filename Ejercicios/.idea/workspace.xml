@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34ed21f7-208d-4e98-b192-4761fa803fe3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uyHeYeycfrJmS7YXQW8fn14OjJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.Programa100Kt.executor": "Run",
+    "Kotlin.Programa101Kt.executor": "Run",
+    "Kotlin.Programa102Kt.executor": "Run",
+    "Kotlin.Programa103Kt.executor": "Run",
+    "Kotlin.Programa104Kt.executor": "Run",
+    "Kotlin.Programa105Kt.executor": "Run",
+    "Kotlin.Programa106Kt.executor": "Run",
+    "Kotlin.Programa107Kt.executor": "Run",
+    "Kotlin.Programa108Kt.executor": "Run",
+    "Kotlin.Programa109Kt.executor": "Run",
+    "Kotlin.Programa10Kt.executor": "Run",
+    "Kotlin.Programa110Kt.executor": "Run",
+    "Kotlin.Programa111Kt.executor": "Run",
+    "Kotlin.Programa112Kt.executor": "Run",
+    "Kotlin.Programa113Kt.executor": "Run",
+    "Kotlin.Programa114Kt.executor": "Run",
+    "Kotlin.Programa116Kt.executor": "Run",
+    "Kotlin.Programa117Kt.executor": "Run",
+    "Kotlin.Programa118Kt.executor": "Run",
+    "Kotlin.Programa119Kt.executor": "Run",
+    "Kotlin.Programa11Kt.executor": "Run",
+    "Kotlin.Programa120Kt.executor": "Run",
+    "Kotlin.Programa121Kt.executor": "Run",
+    "Kotlin.Programa122Kt.executor": "Run",
+    "Kotlin.Programa123Kt.executor": "Run",
+    "Kotlin.Programa124Kt.executor": "Run",
+    "Kotlin.Programa125Kt.executor": "Run",
+    "Kotlin.Programa126Kt.executor": "Run",
+    "Kotlin.Programa127Kt.executor": "Run",
+    "Kotlin.Programa129Kt.executor": "Run",
+    "Kotlin.Programa12Kt.executor": "Run",
+    "Kotlin.Programa130Kt.executor": "Run",
+    "Kotlin.Programa132Kt.executor": "Run",
+    "Kotlin.Programa133Kt.executor": "Run",
+    "Kotlin.Programa134Kt.executor": "Run",
+    "Kotlin.Programa135Kt.executor": "Run",
+    "Kotlin.Programa136Kt.executor": "Run",
+    "Kotlin.Programa137Kt.executor": "Run",
+    "Kotlin.Programa138Kt.executor": "Run",
+    "Kotlin.Programa139Kt.executor": "Run",
+    "Kotlin.Programa13Kt.executor": "Run",
+    "Kotlin.Programa140Kt.executor": "Run",
+    "Kotlin.Programa141Kt.executor": "Run",
+    "Kotlin.Programa142Kt.executor": "Run",
+    "Kotlin.Programa143Kt.executor": "Run",
+    "Kotlin.Programa144Kt.executor": "Run",
+    "Kotlin.Programa145Kt.executor": "Run",
+    "Kotlin.Programa146Kt.executor": "Run",
+    "Kotlin.Programa147Kt.executor": "Run",
+    "Kotlin.Programa148Kt.executor": "Run",
+    "Kotlin.Programa149Kt.executor": "Run",
+    "Kotlin.Programa14Kt.executor": "Run",
+    "Kotlin.Programa150Kt.executor": "Run",
+    "Kotlin.Programa151Kt.executor": "Run",
+    "Kotlin.Programa152Kt.executor": "Run",
+    "Kotlin.Programa153Kt.executor": "Run",
+    "Kotlin.Programa154Kt.executor": "Run",
+    "Kotlin.Programa155Kt.executor": "Run",
+    "Kotlin.Programa156Kt.executor": "Run",
+    "Kotlin.Programa157Kt.executor": "Run",
+    "Kotlin.Programa158Kt.executor": "Run",
+    "Kotlin.Programa159Kt.executor": "Run",
+    "Kotlin.Programa15Kt.executor": "Run",
+    "Kotlin.Programa160Kt.executor": "Run",
+    "Kotlin.Programa161Kt.executor": "Run",
+    "Kotlin.Programa162Kt.executor": "Run",
+    "Kotlin.Programa163Kt.executor": "Run",
+    "Kotlin.Programa164Kt.executor": "Run",
+    "Kotlin.Programa165Kt.executor": "Run",
+    "Kotlin.Programa166Kt.executor": "Run",
+    "Kotlin.Programa167Kt.executor": "Run",
+    "Kotlin.Programa168Kt.executor": "Run",
+    "Kotlin.Programa169Kt.executor": "Run",
+    "Kotlin.Programa16Kt.executor": "Run",
+    "Kotlin.Programa170Kt.executor": "Run",
+    "Kotlin.Programa171Kt.executor": "Run",
+    "Kotlin.Programa174Kt.executor": "Run",
+    "Kotlin.Programa175Kt.executor": "Run",
+    "Kotlin.Programa17Kt.executor": "Run",
+    "Kotlin.Programa18Kt.executor": "Run",
+    "Kotlin.Programa190Kt.executor": "Run",
+    "Kotlin.Programa191Kt.executor": "Run",
+    "Kotlin.Programa19Kt.executor": "Run",
+    "Kotlin.Programa20Kt.executor": "Run",
+    "Kotlin.Programa21Kt.executor": "Run",
+    "Kotlin.Programa22Kt.executor": "Run",
+    "Kotlin.Programa23Kt.executor": "Run",
+    "Kotlin.Programa24Kt.executor": "Run",
+    "Kotlin.Programa25Kt.executor": "Run",
+    "Kotlin.Programa26Kt.executor": "Run",
+    "Kotlin.Programa27Kt.executor": "Run",
+    "Kotlin.Programa28Kt.executor": "Run",
+    "Kotlin.Programa29Kt.executor": "Run",
+    "Kotlin.Programa30Kt.executor": "Run",
+    "Kotlin.Programa31Kt.executor": "Run",
+    "Kotlin.Programa32Kt.executor": "Run",
+    "Kotlin.Programa33Kt.executor": "Run",
+    "Kotlin.Programa34Kt.executor": "Run",
+    "Kotlin.Programa35Kt.executor": "Run",
+    "Kotlin.Programa36Kt.executor": "Run",
+    "Kotlin.Programa37Kt.executor": "Run",
+    "Kotlin.Programa38Kt.executor": "Run",
+    "Kotlin.Programa39Kt.executor": "Run",
+    "Kotlin.Programa3Kt.executor": "Run",
+    "Kotlin.Programa40Kt.executor": "Run",
+    "Kotlin.Programa41Kt.executor": "Run",
+    "Kotlin.Programa42Kt.executor": "Run",
+    "Kotlin.Programa43Kt.executor": "Run",
+    "Kotlin.Programa44Kt.executor": "Run",
+    "Kotlin.Programa45Kt.executor": "Run",
+    "Kotlin.Programa46Kt.executor": "Run",
+    "Kotlin.Programa47Kt.executor": "Run",
+    "Kotlin.Programa48Kt.executor": "Run",
+    "Kotlin.Programa49Kt.executor": "Run",
+    "Kotlin.Programa4Kt.executor": "Run",
+    "Kotlin.Programa50Kt.executor": "Run",
+    "Kotlin.Programa51Kt.executor": "Run",
+    "Kotlin.Programa52Kt.executor": "Run",
+    "Kotlin.Programa53Kt.executor": "Run",
+    "Kotlin.Programa54Kt.executor": "Run",
+    "Kotlin.Programa55Kt.executor": "Run",
+    "Kotlin.Programa56Kt.executor": "Run",
+    "Kotlin.Programa57Kt.executor": "Run",
+    "Kotlin.Programa58Kt.executor": "Run",
+    "Kotlin.Programa59Kt.executor": "Run",
+    "Kotlin.Programa5Kt.executor": "Run",
+    "Kotlin.Programa60Kt.executor": "Run",
+    "Kotlin.Programa61Kt.executor": "Run",
+    "Kotlin.Programa62Kt.executor": "Run",
+    "Kotlin.Programa63Kt.executor": "Run",
+    "Kotlin.Programa64Kt.executor": "Run",
+    "Kotlin.Programa65Kt.executor": "Run",
+    "Kotlin.Programa66Kt.executor": "Run",
+    "Kotlin.Programa67Kt.executor": "Run",
+    "Kotlin.Programa68Kt.executor": "Run",
+    "Kotlin.Programa69Kt.executor": "Run",
+    "Kotlin.Programa6Kt.executor": "Run",
+    "Kotlin.Programa70Kt.executor": "Run",
+    "Kotlin.Programa71Kt.executor": "Run",
+    "Kotlin.Programa72Kt.executor": "Run",
+    "Kotlin.Programa73Kt.executor": "Run",
+    "Kotlin.Programa74Kt.executor": "Run",
+    "Kotlin.Programa75Kt.executor": "Run",
+    "Kotlin.Programa76Kt.executor": "Run",
+    "Kotlin.Programa77Kt.executor": "Run",
+    "Kotlin.Programa78Kt.executor": "Run",
+    "Kotlin.Programa79Kt.executor": "Run",
+    "Kotlin.Programa7Kt.executor": "Run",
+    "Kotlin.Programa80Kt.executor": "Run",
+    "Kotlin.Programa81Kt.executor": "Run",
+    "Kotlin.Programa82Kt.executor": "Run",
+    "Kotlin.Programa83Kt.executor": "Run",
+    "Kotlin.Programa84Kt.executor": "Run",
+    "Kotlin.Programa85Kt.executor": "Run",
+    "Kotlin.Programa86Kt.executor": "Run",
+    "Kotlin.Programa87Kt.executor": "Run",
+    "Kotlin.Programa88Kt.executor": "Run",
+    "Kotlin.Programa89Kt.executor": "Run",
+    "Kotlin.Programa8Kt.executor": "Run",
+    "Kotlin.Programa90Kt.executor": "Run",
+    "Kotlin.Programa91Kt.executor": "Run",
+    "Kotlin.Programa92Kt.executor": "Run",
+    "Kotlin.Programa93Kt.executor": "Run",
+    "Kotlin.Programa94Kt.executor": "Run",
+    "Kotlin.Programa95Kt.executor": "Run",
+    "Kotlin.Programa96Kt.executor": "Run",
+    "Kotlin.Programa97Kt.executor": "Run",
+    "Kotlin.Programa98Kt.executor": "Run",
+    "Kotlin.Programa99Kt.executor": "Run",
+    "Kotlin.Programa9Kt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/elsyy/Downloads/Prog-Nat-Movi (2)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34ed21f7-208d-4e98-b192-4761fa803fe3" name="Changes" comment="" />
+      <created>1743213992524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743213992524</updated>
+      <workItem from="1743213993669" duration="16788000" />
+      <workItem from="1743294631517" duration="104000" />
+      <workItem from="1743358280496" duration="3898000" />
+      <workItem from="1743363202101" duration="5232000" />
+      <workItem from="1743370477313" duration="1722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
